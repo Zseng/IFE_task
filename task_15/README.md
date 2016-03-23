@@ -21,18 +21,14 @@
     		<li>福州空气质量：<b>32</b></li>
     		<li>成都空气质量：<b>90</b></li>
   		</ul>
-
-	  <ul id="resort">
-    	<!-- 
-   		 <li>第一名：北京空气质量：<b>90</b></li>
-   		 <li>第二名：北京空气质量：<b>90</b></li>
-    	<li>第三名：北京空气质量：<b>90</b></li>
-    	-->
-
+	  	<ul id="resort">
+    		<!-- 
+	   		<li>第一名：北京空气质量：<b>90</b></li>
+   			<li>第二名：北京空气质量：<b>90</b></li>
+    		<li>第三名：北京空气质量：<b>90</b></li>
+    		-->
   		</ul>
-
   		<button id="sort-btn">排序</button>
-
 		<script type="text/javascript">
 
 		/**
